@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/satishbondi17/Leetcode_coding/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/satishbondi17/Leetcode_coding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
