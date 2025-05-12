@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/satishbondi17/Leetcode_coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/satishbondi17/Leetcode_coding/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/satishbondi17/Leetcode_coding/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
 ## String
 |  |
