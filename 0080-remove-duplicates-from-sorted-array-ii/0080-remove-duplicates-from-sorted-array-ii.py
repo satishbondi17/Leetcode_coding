@@ -3,9 +3,9 @@ class Solution(object):
         if len(nums) <= 2:
             return len(nums)
         
-        i = 2  # Start from index 2 since the first two elements are always allowed
+        i=2
         for j in range(2, len(nums)):
-            if nums[j] != nums[i - 2]:  # Compare with the element 2 places before
+            if nums[j] != nums[i - 2]:  
                 nums[i] = nums[j]
                 i += 1
         return i
