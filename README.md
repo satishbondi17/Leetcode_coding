@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satishbondi17/Leetcode_coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satishbondi17/Leetcode_coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
