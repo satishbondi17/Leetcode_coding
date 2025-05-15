@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/satishbondi17/Leetcode_coding/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satishbondi17/Leetcode_coding/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/satishbondi17/Leetcode_coding/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/satishbondi17/Leetcode_coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
