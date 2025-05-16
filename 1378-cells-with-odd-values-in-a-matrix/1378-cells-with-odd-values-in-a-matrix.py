@@ -10,7 +10,7 @@ class Solution(object):
         odd_count = 0
         for i in range(m):
             for j in range(n):
-                if (row[i] + col[j]) % 2 != 0:
+                if (row[i] + col[j]) % 2 == 1:
                     odd_count += 1
 
         return odd_count
