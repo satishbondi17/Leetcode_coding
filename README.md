@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satishbondi17/Leetcode_coding/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0643-maximum-average-subarray-i) |
+| [0777-toeplitz-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
