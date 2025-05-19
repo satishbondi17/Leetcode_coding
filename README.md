@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/satishbondi17/Leetcode_coding/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0643-maximum-average-subarray-i) |
+| [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satishbondi17/Leetcode_coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0283-move-zeroes) |
+| [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satishbondi17/Leetcode_coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/satishbondi17/Leetcode_coding/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satishbondi17/Leetcode_coding/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0073-set-matrix-zeroes) |
+| [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/1677-matrix-diagonal-sum) |
