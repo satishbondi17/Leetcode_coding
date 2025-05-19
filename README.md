@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/satishbondi17/Leetcode_coding/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satishbondi17/Leetcode_coding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
