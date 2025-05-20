@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satishbondi17/Leetcode_coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0414-third-maximum-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satishbondi17/Leetcode_coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satishbondi17/Leetcode_coding/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
