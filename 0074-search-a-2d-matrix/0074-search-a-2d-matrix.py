@@ -1,5 +1,6 @@
 class Solution(object):
     def searchMatrix(self, matrix, target):
+        matrix.sort()
         m=len(matrix)
         n=len(matrix[0])
         for i in range(m):
