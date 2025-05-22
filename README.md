@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/satishbondi17/Leetcode_coding/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/satishbondi17/Leetcode_coding/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satishbondi17/Leetcode_coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/satishbondi17/Leetcode_coding/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/satishbondi17/Leetcode_coding/tree/master/1791-richest-customer-wealth) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/satishbondi17/Leetcode_coding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
