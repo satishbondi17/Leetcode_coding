@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/satishbondi17/Leetcode_coding/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satishbondi17/Leetcode_coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satishbondi17/Leetcode_coding/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satishbondi17/Leetcode_coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Union Find
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/satishbondi17/Leetcode_coding/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/satishbondi17/Leetcode_coding/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
