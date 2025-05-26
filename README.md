@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/satishbondi17/Leetcode_coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/satishbondi17/Leetcode_coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/satishbondi17/Leetcode_coding/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/satishbondi17/Leetcode_coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/satishbondi17/Leetcode_coding/tree/master/0342-power-of-four) |
