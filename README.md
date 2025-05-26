@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/satishbondi17/Leetcode_coding/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satishbondi17/Leetcode_coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -255,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/satishbondi17/Leetcode_coding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
