@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/satishbondi17/Leetcode_coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/satishbondi17/Leetcode_coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/satishbondi17/Leetcode_coding/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/satishbondi17/Leetcode_coding/tree/master/0367-valid-perfect-square) |
@@ -269,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/satishbondi17/Leetcode_coding/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0216-combination-sum-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
