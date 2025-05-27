@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/satishbondi17/Leetcode_coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/satishbondi17/Leetcode_coding/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/satishbondi17/Leetcode_coding/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/satishbondi17/Leetcode_coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/satishbondi17/Leetcode_coding/tree/master/3194-find-words-containing-character) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
