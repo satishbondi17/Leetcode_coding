@@ -1,11 +1,11 @@
 class Solution(object):
     def numberOfMatches(self, n):
-        matches = 0
+        current = 0
         while n > 1:
             if n % 2 == 0:
-                matches += n // 2
+                current += n // 2
                 n = n // 2
             else:
-                matches += (n - 1) // 2
+                current += (n - 1) // 2
                 n = (n - 1) // 2 + 1
-        return matches
+        return current
