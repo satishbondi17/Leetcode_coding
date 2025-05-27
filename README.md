@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/satishbondi17/Leetcode_coding/tree/master/1806-count-of-matches-in-tournament) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/satishbondi17/Leetcode_coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/satishbondi17/Leetcode_coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
