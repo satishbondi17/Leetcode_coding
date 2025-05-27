@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/satishbondi17/Leetcode_coding/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/satishbondi17/Leetcode_coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/satishbondi17/Leetcode_coding/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/satishbondi17/Leetcode_coding/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/satishbondi17/Leetcode_coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
