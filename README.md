@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/satishbondi17/Leetcode_coding/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/satishbondi17/Leetcode_coding/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/satishbondi17/Leetcode_coding/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/2630-alternating-digit-sum) |
