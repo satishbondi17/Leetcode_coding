@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/satishbondi17/Leetcode_coding/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/satishbondi17/Leetcode_coding/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
