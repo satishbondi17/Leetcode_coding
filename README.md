@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/1965-sum-of-digits-in-base-k) |
 | [2491-smallest-even-multiple](https://github.com/satishbondi17/Leetcode_coding/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/2571-find-the-pivot-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/satishbondi17/Leetcode_coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/3321-type-of-triangle) |
