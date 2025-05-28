@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satishbondi17/Leetcode_coding/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/satishbondi17/Leetcode_coding/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/3321-type-of-triangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/satishbondi17/Leetcode_coding/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/satishbondi17/Leetcode_coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/3321-type-of-triangle) |
