@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/1965-sum-of-digits-in-base-k) |
 | [2238-a-number-after-a-double-reversal](https://github.com/satishbondi17/Leetcode_coding/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/satishbondi17/Leetcode_coding/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/satishbondi17/Leetcode_coding/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/2571-find-the-pivot-integer) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3321-type-of-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satishbondi17/Leetcode_coding/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
