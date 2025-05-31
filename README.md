@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/satishbondi17/Leetcode_coding/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/satishbondi17/Leetcode_coding/tree/master/0561-array-partition) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
