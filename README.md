@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satishbondi17/Leetcode_coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/satishbondi17/Leetcode_coding/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/satishbondi17/Leetcode_coding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/satishbondi17/Leetcode_coding/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/satishbondi17/Leetcode_coding/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
