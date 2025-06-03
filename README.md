@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
@@ -375,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/satishbondi17/Leetcode_coding/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
