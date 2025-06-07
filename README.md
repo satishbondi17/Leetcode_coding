@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/satishbondi17/Leetcode_coding/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/satishbondi17/Leetcode_coding/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/satishbondi17/Leetcode_coding/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satishbondi17/Leetcode_coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0507-perfect-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/satishbondi17/Leetcode_coding/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/satishbondi17/Leetcode_coding/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satishbondi17/Leetcode_coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
