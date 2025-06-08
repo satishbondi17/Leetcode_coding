@@ -440,4 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/satishbondi17/Leetcode_coding/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/satishbondi17/Leetcode_coding/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/satishbondi17/Leetcode_coding/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
