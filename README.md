@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/satishbondi17/Leetcode_coding/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/satishbondi17/Leetcode_coding/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/satishbondi17/Leetcode_coding/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0566-reshape-the-matrix) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/satishbondi17/Leetcode_coding/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/satishbondi17/Leetcode_coding/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/satishbondi17/Leetcode_coding/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/satishbondi17/Leetcode_coding/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/satishbondi17/Leetcode_coding/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/satishbondi17/Leetcode_coding/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/satishbondi17/Leetcode_coding/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
