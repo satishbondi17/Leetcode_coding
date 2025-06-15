@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/satishbondi17/Leetcode_coding/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/satishbondi17/Leetcode_coding/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/satishbondi17/Leetcode_coding/tree/master/0649-dota2-senate) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/satishbondi17/Leetcode_coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
