@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satishbondi17/Leetcode_coding/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/satishbondi17/Leetcode_coding/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/satishbondi17/Leetcode_coding/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
