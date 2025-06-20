@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/satishbondi17/Leetcode_coding/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/satishbondi17/Leetcode_coding/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/satishbondi17/Leetcode_coding/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/satishbondi17/Leetcode_coding/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Union Find
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/satishbondi17/Leetcode_coding/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/satishbondi17/Leetcode_coding/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/satishbondi17/Leetcode_coding/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/satishbondi17/Leetcode_coding/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
