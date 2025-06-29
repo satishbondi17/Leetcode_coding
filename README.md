@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/satishbondi17/Leetcode_coding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satishbondi17/Leetcode_coding/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/satishbondi17/Leetcode_coding/tree/master/1791-richest-customer-wealth) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/satishbondi17/Leetcode_coding/tree/master/0658-find-k-closest-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satishbondi17/Leetcode_coding/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/satishbondi17/Leetcode_coding/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/satishbondi17/Leetcode_coding/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satishbondi17/Leetcode_coding/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satishbondi17/Leetcode_coding/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Math
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/satishbondi17/Leetcode_coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satishbondi17/Leetcode_coding/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satishbondi17/Leetcode_coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
