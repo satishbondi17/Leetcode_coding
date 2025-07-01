@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/satishbondi17/Leetcode_coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/satishbondi17/Leetcode_coding/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/satishbondi17/Leetcode_coding/tree/master/0735-asteroid-collision) |
 | [0777-toeplitz-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/satishbondi17/Leetcode_coding/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/satishbondi17/Leetcode_coding/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0898-transpose-matrix) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/satishbondi17/Leetcode_coding/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/satishbondi17/Leetcode_coding/tree/master/0735-asteroid-collision) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/satishbondi17/Leetcode_coding/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
