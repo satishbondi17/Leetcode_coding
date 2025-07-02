@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/satishbondi17/Leetcode_coding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2571-find-the-pivot-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/2571-find-the-pivot-integer) |
+| [3618-find-the-original-typed-string-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/1086-divisor-game) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/satishbondi17/Leetcode_coding/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/satishbondi17/Leetcode_coding/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/satishbondi17/Leetcode_coding/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
