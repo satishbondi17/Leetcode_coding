@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/satishbondi17/Leetcode_coding/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/satishbondi17/Leetcode_coding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satishbondi17/Leetcode_coding/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/satishbondi17/Leetcode_coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/satishbondi17/Leetcode_coding/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/satishbondi17/Leetcode_coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/satishbondi17/Leetcode_coding/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
