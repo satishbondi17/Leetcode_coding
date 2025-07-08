@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/satishbondi17/Leetcode_coding/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/satishbondi17/Leetcode_coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/satishbondi17/Leetcode_coding/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/satishbondi17/Leetcode_coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/satishbondi17/Leetcode_coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/satishbondi17/Leetcode_coding/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/satishbondi17/Leetcode_coding/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/satishbondi17/Leetcode_coding/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/satishbondi17/Leetcode_coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/satishbondi17/Leetcode_coding/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/satishbondi17/Leetcode_coding/tree/master/0649-dota2-senate) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/satishbondi17/Leetcode_coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/satishbondi17/Leetcode_coding/tree/master/1018-largest-perimeter-triangle) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/satishbondi17/Leetcode_coding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/satishbondi17/Leetcode_coding/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/satishbondi17/Leetcode_coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
