@@ -587,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/satishbondi17/Leetcode_coding/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
