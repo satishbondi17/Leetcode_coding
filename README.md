@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/1086-divisor-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/satishbondi17/Leetcode_coding/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/3618-find-the-original-typed-string-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/satishbondi17/Leetcode_coding/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/satishbondi17/Leetcode_coding/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Linked List
 |  |
