@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/satishbondi17/Leetcode_coding/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/1635-number-of-good-pairs) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satishbondi17/Leetcode_coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
