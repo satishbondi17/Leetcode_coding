@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0100-same-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/satishbondi17/Leetcode_coding/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/satishbondi17/Leetcode_coding/tree/master/0386-lexicographical-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/satishbondi17/Leetcode_coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
