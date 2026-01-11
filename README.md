@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/satishbondi17/Leetcode_coding/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satishbondi17/Leetcode_coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/satishbondi17/Leetcode_coding/tree/master/1086-divisor-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/satishbondi17/Leetcode_coding/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/satishbondi17/Leetcode_coding/tree/master/0649-dota2-senate) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/satishbondi17/Leetcode_coding/tree/master/2140-longest-subsequence-repeated-k-times) |
