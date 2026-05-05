@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satishbondi17/Leetcode_coding/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/satishbondi17/Leetcode_coding/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0796-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/satishbondi17/Leetcode_coding/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
