@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satishbondi17/Leetcode_coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/satishbondi17/Leetcode_coding/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/satishbondi17/Leetcode_coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/satishbondi17/Leetcode_coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/satishbondi17/Leetcode_coding/tree/master/0658-find-k-closest-elements) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/satishbondi17/Leetcode_coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/satishbondi17/Leetcode_coding/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/satishbondi17/Leetcode_coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/satishbondi17/Leetcode_coding/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/satishbondi17/Leetcode_coding/tree/master/0496-next-greater-element-i) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/satishbondi17/Leetcode_coding/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/satishbondi17/Leetcode_coding/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/satishbondi17/Leetcode_coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/satishbondi17/Leetcode_coding/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/satishbondi17/Leetcode_coding/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/satishbondi17/Leetcode_coding/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
