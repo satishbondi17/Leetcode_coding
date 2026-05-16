@@ -11,8 +11,7 @@ class Solution(object):
         
         # Sort values
         l.sort()
-        
-        # Create new linked list
+         # Create new linked list
         dummy = ListNode(0)
         current = dummy
         
@@ -21,3 +20,5 @@ class Solution(object):
             current = current.next
         
         return dummy.next
+        
+       
