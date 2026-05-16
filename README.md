@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/satishbondi17/Leetcode_coding/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/satishbondi17/Leetcode_coding/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/satishbondi17/Leetcode_coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/satishbondi17/Leetcode_coding/tree/master/0141-linked-list-cycle) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/satishbondi17/Leetcode_coding/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/satishbondi17/Leetcode_coding/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satishbondi17/Leetcode_coding/tree/master/0240-search-a-2d-matrix-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/satishbondi17/Leetcode_coding/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satishbondi17/Leetcode_coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/satishbondi17/Leetcode_coding/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/satishbondi17/Leetcode_coding/tree/master/0506-relative-ranks) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/satishbondi17/Leetcode_coding/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/satishbondi17/Leetcode_coding/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/satishbondi17/Leetcode_coding/tree/master/0948-sort-an-array) |
 ## Bucket Sort
